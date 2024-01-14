@@ -21,6 +21,7 @@ Python is a popular programming language for many reasons. Some of the key featu
 - **Open source:** Python is open-source software, which means that it is free to use and distribute. This makes it an ideal choice for those who want to create and share their own projects without incurring any costs.
 
 ## Applications of Python
+![The sea / Anni Spratt](annie-spratt-RI5FdLjKAXU-unsplash.jpg)
 
 ------------------------------------------------------------------------------------
 
