@@ -23,7 +23,7 @@ Python is a popular programming language for many reasons. Some of the key featu
 ## Applications of Python
 
 ------------------------------------------------------------------------------------
- Lorem ipsum dolor sit amet.
+
 Python is widely used in many different fields, such as:
 
 1. **Web Development:** Python is often used as the backend language for web applications, thanks to its powerful libraries such as Django and Flask.
