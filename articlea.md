@@ -4,7 +4,7 @@
 
 Python is a powerful, high-level programming language that is widely used in many different fields, including web development, data science, artificial intelligence, and more. It is known for its simple, easy-to-read syntax, which makes it an ideal choice for beginners and experts alike. In this article, we will explore some of the key features of Python and why it is such a popular choice for programmers.
 
-![](python-logo@2x.png)
+![ ]( https://www.python.org/static/img/python-logo@2x.png)
 
 ## Why Python is Popular
 
@@ -16,7 +16,7 @@ Python is a popular programming language for many reasons. Some of the key featu
 
 - **Versatile:** Python is a versatile language that can be used for a wide range of applications, including web development, data science, artificial intelligence, and more.
 
-- **Large community:** : Python has a large and active community of developers who contribute to the language and its many libraries. This means that there is a wealth of resources and support available for those who want to learn and use Python.
+- **Large community:**  Python has a large and active community of developers who contribute to the language and its many libraries. This means that there is a wealth of resources and support available for those who want to learn and use Python.
 
 - **Open source:** Python is open-source software, which means that it is free to use and distribute. This makes it an ideal choice for those who want to create and share their own projects without incurring any costs.
 
@@ -40,7 +40,7 @@ Python is widely used in many different fields, such as:
 
 ------------------------------------------------------------------------------------
 
-To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official Python website [Python website](https://www.python.org/downloads). Once you have installed Python, you can start writing and running code.
+To get started with Python, you will need to download and install the Python software. You can download the latest version of Python from the official [Python website](https://www.python.org/downloads)`(https://www.python.org/downloads)`. Once you have installed Python, you can start writing and running code.
 
 To write code in Python, you can use any text editor or integrated development environment (IDE). Some popular IDEs for Python include IDLE (the built-in Python IDE), PyCharm, and Visual Studio Code.
 
@@ -65,24 +65,25 @@ Python functions are blocks of code that can be reused multiple times. A functio
 
 For example, the following code defines a function called greet that prints a message:
 
-> ```python
-> def greet(name):
->  print(f"Hello, {name}")
-> greet("John")
-
+ ```python
+ def greet(name):
+  print(f"Hello, {name}")
+ greet("John")
+```
 When the code is run, it will print "Hello, John".
 
 ### Built-in Functions
 
 Python has a variety of built-in functions that can be used to perform a wide range of tasks, such as:
 
-| **Function** | **Description**                                                   |
-|>```print()```|The *print* function is used to display output to the console.     |
-|>```len()```  |The *len* function is used to find the length of a string or a list.|
-|>```str()```  |The *str* function is used to convert a value to a string.         |
-|>```int()```  |The *int* function is used to convert a value to an integer.       |
-|>```min()```  |The *min* function is used to find the minimum value in a list or a string.|
-|>```max()```  |The *max* function is used to find the maximum value in a list or a string.|
+| **Function**| **Description**                                                           |
+|:------------|:--------------------------------------------------------------------------|
+|```print()```|The *print* function is used to display output to the console.             |
+|```len()```  |The *len* function is used to find the length of a string or a list.       |
+|```str()```  |The *str* function is used to convert a value to a string.                 |
+|```int()```  |The *int* function is used to convert a value to an integer.               |
+|```min()```  |The *min* function is used to find the minimum value in a list or a string.|
+|```max()```  |The *max* function is used to find the maximum value in a list or a string.|
 
 ## Conclusion
 
@@ -100,8 +101,8 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
 Here are some helpful resources for learning more about Python:
 
-- [Python.org](https://www.python.org/) `-` The official website for Python, with a wealth of information and resources for learning the language.
+- [Python.org](https://www.python.org/) \- The official website for Python, with a wealth of information and resources for learning the language.
 
-- [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) `-` A free online book that provides a comprehensive introduction
+- [Python for Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) \- A free online book that provides a comprehensive introduction
 
 ------------------------------------------------------------------------------------
